@@ -3,23 +3,22 @@
 
 # Site settings
 title: Parvis Hejazi
-description: |
-  Pianist Composer
+description: Being a pianist and composer, Parvis highlights the necessity for an artist to reflect on philosophical,theological as well as political issues through the message of mutual understanding, music conveys. Pianist Composer
 owner: Parvis Hejazi # or company name
 first_published: 2017 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: shahrokhhejazi@gmx.de
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.parvishejazi.com" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
+#twitter: https://twitter.com/<username>
+#github: https://github.com/<username>
+#linkedin-square: https://linkedin.com/in/<username>
+  facebook-official: https://www.facebook.com/parvis.hejazi.18
+#google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
   #instagram:
-  #youtube-square:
+  youtube-square: https://www.youtube.com/channel/UCYExxlWvuvQA5ZJbvLpw9qQ
   #spotify:
   #stack-overflow:
   #vimeo:
@@ -28,7 +27,7 @@ social:
   #delicious:
   #pied-piper:
   #digg:
-  #soundcloud:
+  soundcloud: https://soundcloud.com/pianoparvis
   #deviantart:
   #angellist:
   #tumblr-square:
